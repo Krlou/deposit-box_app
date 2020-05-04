@@ -1,0 +1,12 @@
+.container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: #434343;
+  display: flex; /*flex container element*/
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}

@@ -1,0 +1,8 @@
+.numberKeypad {
+  width: 80%;
+  height: 75%;
+  background-color: #7d7d7f;
+  margin: 16px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}

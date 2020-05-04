@@ -1,0 +1,31 @@
+.userManual {
+  /*flex item element*/
+  width: 600px;
+  background-color: #fff;
+  font-size: 16px;
+  user-select: none;
+}
+
+.userManual__Container {
+  margin: 8px;
+  padding: 8px;
+  border: 5px solid #ff0000;
+  background-color: #fff;
+  color: #434343;
+}
+
+.userManual__List {
+  list-style: decimal;
+  margin: 0;
+}
+
+.userManual__Paragraph {
+  font-weight: 500;
+  margin: 0;
+}
+
+@media (max-width: 1050px) {
+  .userManual {
+    display: none;
+  }
+}
