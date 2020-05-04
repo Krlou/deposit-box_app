@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.7bd8af0e.chunk.css",
-    "main.js": "/static/js/main.6b2526c2.chunk.js",
-    "main.js.map": "/static/js/main.6b2526c2.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.78f96874.js",
-    "runtime-main.js.map": "/static/js/runtime-main.78f96874.js.map",
-    "static/js/2.3e71ccf1.chunk.js": "/static/js/2.3e71ccf1.chunk.js",
-    "static/js/2.3e71ccf1.chunk.js.map": "/static/js/2.3e71ccf1.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.aa4ef07f2201fd48eaf9b2493735cafc.js": "/precache-manifest.aa4ef07f2201fd48eaf9b2493735cafc.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.7bd8af0e.chunk.css.map": "/static/css/main.7bd8af0e.chunk.css.map",
-    "static/js/2.3e71ccf1.chunk.js.LICENSE.txt": "/static/js/2.3e71ccf1.chunk.js.LICENSE.txt"
+    "main.css": "/deposit-box_app/static/css/main.7bd8af0e.chunk.css",
+    "main.js": "/deposit-box_app/static/js/main.f3a846d2.chunk.js",
+    "main.js.map": "/deposit-box_app/static/js/main.f3a846d2.chunk.js.map",
+    "runtime-main.js": "/deposit-box_app/static/js/runtime-main.d7190e5c.js",
+    "runtime-main.js.map": "/deposit-box_app/static/js/runtime-main.d7190e5c.js.map",
+    "static/js/2.3e71ccf1.chunk.js": "/deposit-box_app/static/js/2.3e71ccf1.chunk.js",
+    "static/js/2.3e71ccf1.chunk.js.map": "/deposit-box_app/static/js/2.3e71ccf1.chunk.js.map",
+    "index.html": "/deposit-box_app/index.html",
+    "precache-manifest.752a40add383b46dfa43492f2e5f4d7a.js": "/deposit-box_app/precache-manifest.752a40add383b46dfa43492f2e5f4d7a.js",
+    "service-worker.js": "/deposit-box_app/service-worker.js",
+    "static/css/main.7bd8af0e.chunk.css.map": "/deposit-box_app/static/css/main.7bd8af0e.chunk.css.map",
+    "static/js/2.3e71ccf1.chunk.js.LICENSE.txt": "/deposit-box_app/static/js/2.3e71ccf1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.78f96874.js",
+    "static/js/runtime-main.d7190e5c.js",
     "static/js/2.3e71ccf1.chunk.js",
     "static/css/main.7bd8af0e.chunk.css",
-    "static/js/main.6b2526c2.chunk.js"
+    "static/js/main.f3a846d2.chunk.js"
   ]
 }
